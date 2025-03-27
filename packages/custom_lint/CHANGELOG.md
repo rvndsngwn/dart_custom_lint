@@ -1,3 +1,7 @@
+## 0.7.5 - 2025-03-28
+
+- Upgrade Freezed to 3.0.4
+
 ## 0.7.5 - 2025-02-27
 
 Fix inconsistent version
